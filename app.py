@@ -39,5 +39,6 @@ summarize()
 
 # Footer
 st.markdown("---")
-st.markdown("🚀 Connect with me on [LinkedIn](https://www.linkedin.com/in/morla-lakshmi-prasanna-824072255) and [GitHub](https://github.com/LP-THE-CODER)")
+st.markdown("🚀 Connect with me on [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/morla-lakshmi-prasanna-824072255) [![GitHub](https://img.shields.io/badge/GitHub-black?style=flat&logo=github)](https://github.com/LP-THE-CODER)")
+
 
