@@ -32,6 +32,12 @@ def summarize():
         st.subheader("Sentiment Analysis")
         st.text(f'Polarity: {polarity}, Sentiment: {sentiment}')
 
-st.title("News Summarizer")
+st.title("📰 News Summarizer 📝")
 
 summarize()
+
+
+# Footer
+st.markdown("---")
+st.markdown("🚀 Connect with me on [LinkedIn](https://www.linkedin.com/in/morla-lakshmi-prasanna-824072255) and [GitHub](https://github.com/LP-THE-CODER)")
+
