@@ -4,6 +4,10 @@
 
 This is a Streamlit web application that summarizes news articles using the Newspaper3k and TextBlob libraries.
 
+## Live Link
+
+Access the live version of the app [here](https://news-summarizer-lp.streamlit.app/).
+
 ## Features
 
 - Allows users to input a URL of a news article
