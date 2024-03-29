@@ -47,5 +47,5 @@ summarize()
 
 # Footer
 st.markdown("---")
-st.markdown("<h3 style='text-align: center;'>🚀 Connect with me on LinkedIn and GitHub!</h3>", unsafe_allow_html=True)
+st.markdown("<h3 style='text-align: center;'>🚀 Connect with Lakshmi Prasanna Morla on LinkedIn and GitHub!</h3>", unsafe_allow_html=True)
 st.markdown("<p style='text-align: center;'><a href='https://www.linkedin.com/in/morla-lakshmi-prasanna-824072255' target='_blank'><img src='https://img.icons8.com/color/48/000000/linkedin.png'/></a>&nbsp;&nbsp;&nbsp;<a href='https://github.com/LP-THE-CODER' target='_blank'><img src='https://img.icons8.com/color/48/000000/github--v1.png'/></a></p>", unsafe_allow_html=True)
