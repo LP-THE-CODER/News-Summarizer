@@ -1,9 +1,7 @@
-
-
-```
 # 📰 News Summarizer
 
-Welcome to the News Summarizer – your go-to tool for quickly digesting news articles! Powered by Streamlit, Newspaper3k, and TextBlob, this web application simplifies the process of staying informed by summarizing lengthy articles into concise snippets.
+Welcome to the News Summarizer – your go-to tool for quickly digesting news articles! Powered by Streamlit, Newspaper3k, 
+and TextBlob, this web application simplifies the process of staying informed by summarizing lengthy articles into concise snippets.
 
 ## 🚀 Live Link
 
@@ -37,4 +35,3 @@ Experience the magic of summarization in action! Access the live version of the 
 
 This project was crafted with love by [Lakshhmi Prasanna Morla].
 
-```
