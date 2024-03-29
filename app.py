@@ -1,6 +1,10 @@
 import streamlit as st
 from newspaper import Article
 from textblob import TextBlob
+import nltk
+
+# Download NLTK data
+nltk.download('punkt')
 
 def summarize():
     url = st.text_area("URL")
