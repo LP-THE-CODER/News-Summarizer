@@ -35,3 +35,6 @@ Experience the magic of summarization in action! Access the live version of the 
 
 This project was crafted with love by [Lakshhmi Prasanna Morla].
 
+📄 **License**
+
+This project is licensed under the terms of the [MIT License](LICENSE).
